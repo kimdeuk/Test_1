@@ -9,5 +9,7 @@ public class Test_1Activity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_test_1);
+
+        setTitle("김원득의 프로젝트");
     }
 }
