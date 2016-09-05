@@ -14,7 +14,7 @@ public class Test_1Activity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setTitle("김원득의 프로젝트");
+        setTitle("안드로이드");
         setContentView(R.layout.activity_test_1);
 
         btn01 = (Button) findViewById(R.id.btn01);
